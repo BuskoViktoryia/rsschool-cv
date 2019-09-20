@@ -1,1 +1,1 @@
-# rsschool-cv
+[Link to my cv.md](https://buskoviktoryia.github.io/rsschool-cv/cv)
