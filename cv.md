@@ -46,12 +46,12 @@ _Specialty:_ Heat and Gas Supply, Air-Conditioning and Air Protection
 * Zeplin
 
 ### PROJECT
-[educational project "TECHNOMART"](https://https://buskoviktoryia.github.io/963659-technomart-24)
+[educational project "TECHNOMART"](https://buskoviktoryia.github.io/963659-technomart-24)
 
 ### LANGUAGES 
 
-* English — Intermediate - Pre–Intermediate (Streamline School)
----
+English — Intermediate - Pre–Intermediate (Streamline School)
+
 
 
 
