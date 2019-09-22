@@ -1,0 +1,131 @@
+/**
+ * GLOBAL STYLE
+*/
+
+
+html,
+body {
+    min-width: 960px;
+    font-family: 'Manuale', serif;
+    color: black;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+    background-image: linear-gradient(#F6D8CE, #ffffff, #F6D8CE);
+}
+
+/**
+ * HEADER STYLE
+*/
+
+.heder-section {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Rakkas', cursive;
+
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px grey;
+    margin: 0;
+    padding: 20px 20px;
+}
+
+.photo-section {
+    min-height: 370px;
+    width: 215px;
+    padding: 10px;
+}
+
+img {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
+
+
+
+.contacts-section {
+    width: 690px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.contacts-section-name {
+    text-decoration: underline;
+}
+
+.contacts-section-name,
+.contacts-section-type {
+    margin: 0;
+    padding: 10px;
+}
+
+.mobile-phone {
+    color: black;
+}
+
+/**
+ * MAIN STYLE
+*/
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-section {
+    margin: 20px 10px;
+}
+
+.main-section-name {
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0 20px;
+
+}
+
+.section-description {
+    display: inline-block;
+    text-align: justify;
+    vertical-align: middle;
+    margin: 0;
+    padding: 10px 20px;
+}
+
+.education {
+    display: flex;
+    flex-direction: column;
+}
+
+.education-type {
+    display: flex;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+    margin: 20px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
