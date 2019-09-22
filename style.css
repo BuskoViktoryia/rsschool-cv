@@ -1,0 +1,62 @@
+/**
+ * GLOBAL STYLE
+*/
+
+
+html,
+body {
+    min-width: 960px;
+    font-family: 'Manuale', serif;
+    color: black;
+    background-color: #ffffff;
+}
+
+a,
+ul {
+
+    text-decoration: none;
+}
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+/**
+ * HEADER STYLE
+*/
+
+.heder-section {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Rakkas', cursive;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-size: 48px;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.photo-section {
+    width: 250px;
+    padding: 10px;
+}
+
+img {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
+
+.contacts-section {
+    width: 690px;
+}
+
+/**
+ * MAIN STYLE
+*/
+main {
+    background-color: pink;
+}
